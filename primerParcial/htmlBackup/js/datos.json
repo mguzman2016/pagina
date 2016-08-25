@@ -1,0 +1,12 @@
+[{
+    "codigo": "IS01",
+    "nombres": "Nombres 1",
+    "apellidos": "Nombres 2",
+    "nota": 5
+},
+{
+    "codigo": "IS02",
+    "nombres": "Nombres 3",
+    "apellidos": "Nombres 4",
+    "nota": 10
+}]
